@@ -23,4 +23,4 @@ https://pt.wikipedia.org/wiki/Categoria:Embarca%C3%A7%C3%B5es_dos_Descobrimentos
 | **Navio de 2 canhões** | Caravela       | Caravel  |    2     |    3     |
 | **Submarino**          | Barca          | Barge    |    1     |    4     |
 
-Basic academic version of Battleship game to build upon.
+Basic academic version of Battleship game to build upon
