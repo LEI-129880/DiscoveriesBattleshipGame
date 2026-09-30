@@ -1,0 +1,13 @@
+name: Notificar Pull Request
+
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Notificar Pull Request
+        run: echo "Foi aberto um novo Pull Request. O responsável deve fazer a revisão."
