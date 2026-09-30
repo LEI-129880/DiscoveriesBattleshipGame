@@ -1,7 +1,7 @@
 # Battleship
 
-# Regras
-O jogo e jogado num tabuleiro 10x10, escolha uma coordenada para afundar o navio adversário
+# 🤝Regras
+O jogo é jogado num tabuleiro 10x10, escolha uma coordenada para afundar o navio adversário
 
 
 # Os Vencedores
@@ -13,7 +13,7 @@ O jogo e jogado num tabuleiro 10x10, escolha uma coordenada para afundar o navio
 
 # Barcos dos descobrimentos
 https://pt.wikipedia.org/wiki/Categoria:Embarca%C3%A7%C3%B5es_dos_Descobrimentos
-## ⚓ Tipos de Navios
+# ⚓ Tipos de Navios
 
 | Batalha Naval          | Descobrimentos | English  | Dimensão | # Navios |
 |------------------------|----------------|----------|:--------:|:--------:|
