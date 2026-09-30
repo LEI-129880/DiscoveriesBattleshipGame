@@ -16,6 +16,10 @@ public class Barge extends Ship {
         getPositions().add(new Position(pos.getRow(), pos.getColumn()));
     }
 
+    /** 
+    * Returns the size of the barge. * 
+    * @return the size of the barge 
+    */
     @Override
     public Integer getSize() {
         return SIZE;
