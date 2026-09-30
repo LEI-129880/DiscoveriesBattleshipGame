@@ -1,7 +1,7 @@
 # Battleship
 
 # 🤝Regras
-O jogo é jogado num tabuleiro 10x10, escolha uma coordenada para afundar o navio adversário
+O jogo é jogado num tabuleiro 10x10, escolha uma coordenada para afundar o navio adversário.
 
 
 # Os Vencedores
