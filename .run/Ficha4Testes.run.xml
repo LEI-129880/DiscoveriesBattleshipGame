@@ -1,0 +1,27 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Ficha 4 - testes 129890" type="JUnit" factoryName="JUnit">
+    <module name="Battleship" />
+    <option name="PACKAGE_NAME" value="iscteiul.ista.battleship" />
+    <option name="TEST_OBJECT" value="pattern" />
+    <option name="VM_PARAMETERS" value="-ea" />
+    <patterns>
+      <pattern testClass="iscteiul.ista.battleship.BargeTest" />
+      <pattern testClass="iscteiul.ista.battleship.CaravelTest" />
+      <pattern testClass="iscteiul.ista.battleship.CarrackTest" />
+      <pattern testClass="iscteiul.ista.battleship.CompassTest" />
+      <pattern testClass="iscteiul.ista.battleship.GalleonTest" />
+      <pattern testClass="iscteiul.ista.battleship.PositionTest" />
+      <pattern testClass="iscteiul.ista.battleship.ShipTest" />
+    </patterns>
+    <extension name="coverage">
+      <pattern><option name="PATTERN" value="iscteiul.ista.battleship.Barge" /><option name="ENABLED" value="true" /></pattern>
+      <pattern><option name="PATTERN" value="iscteiul.ista.battleship.Caravel" /><option name="ENABLED" value="true" /></pattern>
+      <pattern><option name="PATTERN" value="iscteiul.ista.battleship.Carrack" /><option name="ENABLED" value="true" /></pattern>
+      <pattern><option name="PATTERN" value="iscteiul.ista.battleship.Compass" /><option name="ENABLED" value="true" /></pattern>
+      <pattern><option name="PATTERN" value="iscteiul.ista.battleship.Galleon" /><option name="ENABLED" value="true" /></pattern>
+      <pattern><option name="PATTERN" value="iscteiul.ista.battleship.Position" /><option name="ENABLED" value="true" /></pattern>
+      <pattern><option name="PATTERN" value="iscteiul.ista.battleship.Ship" /><option name="ENABLED" value="true" /></pattern>
+    </extension>
+    <method v="2"><option name="Make" enabled="true" /></method>
+  </configuration>
+</component>
